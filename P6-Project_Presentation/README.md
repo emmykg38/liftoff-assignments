@@ -1,10 +1,10 @@
-# Project Presentation
-We want to you to create a set of presentation slides summarizing your project.
+# project presentation
+we want to you to create a set of presentation slides summarizing your project.
 
-## Assignment Description
-[Project Presentation Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-presentation)
+## assignment description
+[project presentation assignment](https://education.launchcode.org/liftoff/modules/assignments/project-presentation)
 
-## Submission Instructions
+## submission instructions
 
-### Presentation
-Upload a .PDF of your presentation here for review.
+### presentation
+[project_presentation] (https://docs.google.com/presentation/d/1lbziycgdp3kyqdzturuftob72geqipxkdhcae860cme/edit?usp=sharing)
